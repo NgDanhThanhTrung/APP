@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/VannQuoc/LocketDowngrade/raw/main/logo.jpg</string>
+                    <string>https://github.com/NgDanhThanhTrung/APP/raw/main/rophim/logo_rophim.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/VannQuoc/LocketDowngrade/raw/main/logo.jpg</string>
+                    <string>https://github.com/NgDanhThanhTrung/APP/raw/main/rophim/logo_rophim.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,7 +39,7 @@
                 <key>bundle-version</key>
                 <string>1.0.5</string>
                 <key>title</key>
-                <string>VannQuocIsMe-Rổ Phim</string>
+                <string>NgDanhThanhTrung-Rổ Phim</string>
             </dict>
         </dict>
     </array>
