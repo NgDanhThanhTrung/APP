@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/NgDanhThanhTrung/APP/raw/main/logo_shadowrocket.jpg</string>
+                    <string>https://raw.githubusercontent.com/NgDanhThanhTrung/APP/main/shadowrocket/logo_shadowrocket.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/NgDanhThanhTrung/APP/raw/main/logo_shadowrocket.jpg</string>
+                    <string>https://raw.githubusercontent.com/NgDanhThanhTrung/APP/main/shadowrocket/logo_shadowrocket.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
