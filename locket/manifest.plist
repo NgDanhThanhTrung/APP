@@ -11,35 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://dl.dropboxusercontent.com/scl/fi/wb4px2o3iigi9598hjyw1/Locket_2.7.1._vannquocisme.ipa?rlkey=pmcrxt4f8pezg0myoy8arlxlj&amp;st=7k799h8n&amp;dl=1</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://github.com/NgDanhThanhTrung/APP/raw/main/locket/logo_locket.jpg</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://github.com/NgDanhThanhTrung/APP/raw/main/locket/logo_locket.jpg</string>
+                    <string>https://dl.dropboxusercontent.com/scl/fi/wb4px2o3iigi9598hjyw1/Locket_2.7.1._vannquocisme.ipa?rlkey=pmcrxt4f8pezg0myoy8arlxlj&st=7k799h8n&dl=1</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
-                <key>kind</key>
-                <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.locket.Locket</string>
+                <string>com.locket.gold</string>
                 <key>bundle-version</key>
                 <string>2.7.1</string>
+                <key>kind</key>
+                <string>software</string>
                 <key>title</key>
-                <string>NgDanhThanhTrung-Locket_Hạ Cấp v2.7.1</string>
+                <string>Locket Gold - Thành Trung</string>
             </dict>
         </dict>
     </array>
