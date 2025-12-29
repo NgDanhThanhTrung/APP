@@ -13,33 +13,17 @@
                     <key>url</key>
                     <string>https://dl.3u.com/soft/2025/09/27/z_932747118_878459483_1.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/NgDanhThanhTrung/APP/main/shadowrocket/logo_shadowrocket.jpg</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/NgDanhThanhTrung/APP/main/shadowrocket/logo_shadowrocket.jpg</string>
-                </dict>
             </array>
             <key>metadata</key>
             <dict>
-                <key>kind</key>
-                <string>software</string>
                 <key>bundle-identifier</key>
                 <string>com.liguangming.Shadowrocket</string>
                 <key>bundle-version</key>
-                <string>2.2.71</string>
+                <string>2.2.34</string>
+                <key>kind</key>
+                <string>software</string>
                 <key>title</key>
-                <string>NgDanhThanhTrung-Shadowrocket v2.2.71</string>
+                <string>Shadowrocket - Thành Trung</string>
             </dict>
         </dict>
     </array>
